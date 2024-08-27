@@ -7,6 +7,8 @@ It's highly recommendable to use it with vinceliuice's Graphite Dark theme which
 
 GreyStone icon theme uses Kora icon theme as foundation and elements of it will be present in the icon theme.
 
+Tested on: Solus KDE/Gnome/Budgie - Fedora KDE/Gnome/Budgie - Zorin OS 17 Pro/core
+
 Screenshots
 --
 
