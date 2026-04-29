@@ -14,6 +14,6 @@ Tested on: Solus KDE/Gnome/Budgie/XFCE - Fedora KDE/Gnome/Budgie - Zorin OS 17 P
 Screenshots
 --
 
-<img width="1920" height="1080" alt="Screenshot_20250812_203223" src="https://github.com/user-attachments/assets/00e034f4-d863-4ce3-a85c-42cc201da15c" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/b442a312-bd61-49e6-834b-71a510e25adb" />
 
-<img width="1920" height="1080" alt="Screenshot_20250812_203243" src="https://github.com/user-attachments/assets/0f86a477-eb31-41cb-999f-15225ca6c1d8" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/803ecd8b-b9d1-49a6-9f2a-753066c4a3e8" />
